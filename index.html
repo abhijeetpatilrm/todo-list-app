@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-Do List App</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="todo-app">
+        <h2>To-Do List <img src="images/icon.png" alt="To-Do Icon" /></h2>
+        <div class="controls">
+          <button onclick="toggleTheme()">Toggle Theme</button>
+          <select id="filter-tasks" onchange="filterTasks()">
+            <option value="all">All Tasks</option>
+            <option value="completed">Completed</option>
+            <option value="pending">Pending</option>
+          </select>
+          <select id="sort-tasks" onchange="sortTasks()">
+            <option value="date">Sort by Date</option>
+            <option value="priority">Sort by Priority</option>
+          </select>
+        </div>
+        <div class="row">
+          <input
+            type="text"
+            id="input-box"
+            placeholder="Add your text"
+            aria-label="Task Input"
+          />
+          <select id="priority-select">
+            <option value="low">Low Priority</option>
+            <option value="medium">Medium Priority</option>
+            <option value="high">High Priority</option>
+          </select>
+          <button onclick="addTask()">Add</button>
+        </div>
+        <p id="error-message" aria-live="polite"></p>
+        <ul id="list-container" role="list"></ul>
+        <button class="clear-btn" onclick="clearTasks()">
+          Clear All Tasks
+        </button>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
