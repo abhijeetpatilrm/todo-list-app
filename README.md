@@ -4,6 +4,10 @@
 
 A stylish and intuitive To-Do List application designed with HTML, CSS, and JavaScript. This app combines functionality with aesthetics, allowing you to manage your tasks efficiently and enjoyably.
 
+## Live Demo
+
+You can view the live demo of the project [here](https://todo-list-app-cufn.onrender.com).
+
 ## Key Features
 
 - **Task Management**: Add, edit, and delete tasks effortlessly.
