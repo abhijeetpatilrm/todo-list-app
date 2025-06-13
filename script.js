@@ -5,7 +5,7 @@ const prioritySelect = document.getElementById("priority-select");
 const filterTasksSelect = document.getElementById("filter-tasks");
 const sortTasksSelect = document.getElementById("sort-tasks");
 
-let theme = "light-mode";
+
 
 function addTask() {
   errorMessage.textContent = ""; // Clear previous error message
