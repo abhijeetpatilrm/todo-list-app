@@ -1,8 +1,4 @@
-# To-Do List Application
-
-## Overview
-
-A stylish and intuitive To-Do List application designed with HTML, CSS, and JavaScript. This app combines functionality with aesthetics, allowing you to manage your tasks efficiently and enjoyably.
+<h1 align="center">📝 To-Do List Web App</h1> <p align="center"> A sleek and feature-rich To-Do List application built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. Designed for productivity lovers who value both <em>functionality</em> and <em>aesthetics</em>. </p> <p align="center"> <a href="https://todo-list-app-cufn.onrender.com" target="_blank"> 🚀 <strong>Live Demo</strong> </a> </p>
 
 ## Live Demo
 
