@@ -27,4 +27,25 @@ You can view the live demo of the project [here](https://todo-list-app-cufn.onre
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## 🙋‍♂️ Author
+
+Made with 💖 by **Abhijeet Patil**
+
+<p align="left">
+  <a href="https://github.com/abhijeetpatilrm" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-abhijeetpatilrm-181717?style=for-the-badge&logo=github" alt="github" />
+  </a>
+  <a href="mailto:abhijeetpatilhnl@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Abhijeet_Patil-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📌 Note
+
+⭐ If you found this useful, don’t forget to **star the repo**!  
+📬 Open to contributions, ideas, and collaborations!
+
+
 
