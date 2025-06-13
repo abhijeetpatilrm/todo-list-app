@@ -1,5 +1,4 @@
-const inputBox = document.getElementById("input-box");
-const listContainer = document.getElementById("list-container");
+
 const errorMessage = document.getElementById("error-message");
 const prioritySelect = document.getElementById("priority-select");
 const filterTasksSelect = document.getElementById("filter-tasks");
